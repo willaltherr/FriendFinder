@@ -14,4 +14,4 @@ Users can get started with this project by connecting to their local servers as 
 If users need help with the project then they can go to my repo and review the code.
 
 5. Who maintains and contributes to the project:
-This project was maintained and contributed by Will Altherr.  In order for me to complete this project I had to use resources online inlcuding other repositories that have completed this project.
+This project was maintained and contributed by Will Altherr.  In order for me to complete this project I had to use resources online including other repositories that have completed this project.
